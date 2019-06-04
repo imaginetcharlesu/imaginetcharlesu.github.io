@@ -17,3 +17,7 @@
          url('../assets/fonts/weblysleekuisb.woff') format('woff'),
          url('../assets/fonts/weblysleekuisb.ttf') format('truetype');
 }
+
+body {
+    font-family: 'Webly Sleek SemiBold';
+  }
