@@ -1,23 +1,19 @@
 @font-face {
-    font-family: 'Webly Sleek Light';
+    font-family: 'WeblySleek UI Light';
     src: url('../assets/fonts/weblysleekuil.woff2') format('woff2'),
          url('../assets/fonts/weblysleekuil.woff') format('woff'),
          url('../assets/fonts/weblysleekuil.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Webly Sleek SemiLight';
+    font-family: 'WeblySleek UI SemiLight';
     src: url('../assets/fonts/weblysleekuisl.woff2') format('woff2'),
          url('../assets/fonts/weblysleekuisl.woff') format('woff'),
          url('../assets/fonts/weblysleekuisl.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Webly Sleek SemiBold';
+    font-family: 'WeblySleek UI SemiBold';
     src: url('../assets/fonts/weblysleekuisb.woff2') format('woff2'),
          url('../assets/fonts/weblysleekuisb.woff') format('woff'),
          url('../assets/fonts/weblysleekuisb.ttf') format('truetype');
 }
-
-body {
-    font-family: 'Webly Sleek SemiBold';
-  }
