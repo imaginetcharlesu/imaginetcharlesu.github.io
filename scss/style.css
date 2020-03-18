@@ -17,3 +17,52 @@
          url('../assets/fonts/weblysleekuisb.woff') format('woff'),
          url('../assets/fonts/weblysleekuisb.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'ATTAleckSans_Bd';
+    src: url('../assets/fonts/ATTAleckSans_Bd.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_BdIt';
+    src: url('../assets/fonts/ATTAleckSans_BdIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_Blk';
+    src: url('../assets/fonts/ATTAleckSans_Blk.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_BlkIt';
+    src: url('../assets/fonts/ATTAleckSans_BlkIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_It';
+    src: url('../assets/fonts/ATTAleckSans_It.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_Lt';
+    src: url('../assets/fonts/ATTAleckSans_Lt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_LtIt';
+    src: url('../assets/fonts/ATTAleckSans_LtIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_Md';
+    src: url('../assets/fonts/ATTAleckSans_Md.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_MdIt';
+    src: url('../assets/fonts/ATTAleckSans_MdIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_Rg';
+    src: url('../assets/fonts/ATTAleckSans_Rg.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_Th';
+    src: url('../assets/fonts/ATTAleckSans_Th.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ATTAleckSans_ThIt';
+    src: url('../assets/fonts/ATTAleckSans_ThIt.ttf') format('truetype');
+}
